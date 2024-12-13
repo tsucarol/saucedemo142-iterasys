@@ -35,4 +35,4 @@ This basic automated test was created to verify the **login and cart functionali
 ## Feedback
 
 This is my first experience with Selenium WebDriver, and I am also practicing my English writing skills through this repository. 
-If you have any suggestions, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/carol-guimaraes/). 
+If you have any suggestions, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/carol-guimaraes/). 
